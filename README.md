@@ -61,4 +61,7 @@ Action movies had the hightest total revenue, but also higher risk of losses. Ho
 
 Microsoft can leverage their video game catalog options. IPs like Elder Scrolls, Fallout and Minecraft can adapt to the desired genres.
 
+<<<<<<< HEAD
+=======
 
+>>>>>>> a8765a0ca28381a8707a8b8dd51463b5845718d7
