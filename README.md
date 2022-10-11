@@ -6,6 +6,10 @@ This repository includes all files for the final submission for the Phase 1 proj
 
 For this project, we used movie data to determine what types of films have been performing best at the box office and then provide recommendations to the stakeholder.
 
+* [Presentation Link](https://github.com/manotee/dsc-phase-1-project-v2-4/blob/master/Presentation.pdf) - Presentation slides for this notebook.
+
+* [Repo Link](https://github.com/manotee/dsc-phase-1-project-v2-4) - Location of project repository.
+
 ## Business Understanding
 
 Microsoft sees all the big companies creating original video content and they want to get in on the fun. They have decided to create a new movie studio, but they don’t know anything about creating movies. We are charged with exploring what types of films are currently doing the best at the box office. 
@@ -36,18 +40,31 @@ For this analysis, the movie population will consist of:
 
 Additional expenses such as Distribution/Marketing were not included in this analysis.
 
-Include types of genres.....
+The nine high-level genre types include:
+
+*Action/Adventure*     - Examples include Superhero movies, Star Wars, etc. <br>
+*Action/Thriller*      - Movies like James Bond, Mission Impossible, etc.  <br>
+*Biography/Historical* - Based on real people/events, could have elements of other genres. <br>
+*Comedy*               - Standard comedic movies, with little genre crossover. <br>
+*Crime/Mystery*        - Heist/Drug movies and Police/Detective/Lawyer themed movies. <br>
+*Drama*                - High Drama movies with little genre crossover. <br>
+*Dramedy*              - Movies that cover serious topics with humerous elements. <br>
+*Family/Animation*     - Family friendly movies, typically aimed at younger audiences. <br>
+*Horror*               - Movies like Saw, The Quiet Place, The Purge, etc. <br>
 
 ### Visualizations
 
 * Genres with highest total profit from 2010-2019.
+
+![total_profit](https://github.com/manotee/dsc-phase-1-project-v2-4/blob/master/images/Total_Profit.png)
+
 * Genres with highest profit percentage 2010-2019.
 
-![viewing_trends](https://github.com/manotee/dsc-phase-1-project-v2-4/blob/master/hbar%20chart.png)
+![profit_per](https://github.com/manotee/dsc-phase-1-project-v2-4/blob/master/images/Profit_Percentage.png)
 
 * Customer viewing trends by genre per year. 
 
-![viewing_trends](https://github.com/manotee/dsc-phase-1-project-v2-4/blob/master/viewing_trends.png)
+![viewing_trends](https://github.com/manotee/dsc-phase-1-project-v2-4/blob/master/images/Viewing_Trends.png)
          
 ## Conclusions
 
@@ -61,7 +78,3 @@ Action movies had the hightest total revenue, but also higher risk of losses. Ho
 
 Microsoft can leverage their video game catalog options. IPs like Elder Scrolls, Fallout and Minecraft can adapt to the desired genres.
 
-<<<<<<< HEAD
-=======
-
->>>>>>> a8765a0ca28381a8707a8b8dd51463b5845718d7
